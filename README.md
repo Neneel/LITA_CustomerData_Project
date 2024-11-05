@@ -57,6 +57,8 @@ The dataset was loaded into Microsoft Excel. It was cleaned by addressing the bl
 	
 
 ## QUERIES USED IN ANALYSIS
+![Screenshot 2024-11-05 172153](https://github.com/user-attachments/assets/6fccf115-9515-4b12-b74f-74165b84bb58)
+![Screenshot 2024-11-05 172304](https://github.com/user-attachments/assets/c3b644ed-33cf-46d4-8e31-72c39cfbb497)
 
 
 ## CUSTOMER DATA VISUALIZATION
