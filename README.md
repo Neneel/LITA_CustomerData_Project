@@ -29,7 +29,7 @@ For this project, I analyzed the customer data for a subscription service to ide
 ### How was the data collected?
 The data was collected from customer subscription track records. It contains customer information, subscription history and revenue details from 2022 to 2024. 
 
-### TOOLS USED
+### Tools used
 
 For Data cleaning: 
 Microsoft Excel
@@ -40,7 +40,7 @@ Microsoft Excel and SQL
 For Visualization: 
 PowerBI
 
-### FEATURES IDENTIFIED FOR ANALYSIS
+### Features Identified For Analysis
 
 - Average subscription duration.
 - Most popular subscription types across customers and regions.
