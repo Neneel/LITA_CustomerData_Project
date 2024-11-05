@@ -51,9 +51,17 @@ PowerBI
 The dataset was loaded into Microsoft Excel. It was cleaned by addressing the blanks, removing duplicates, and ensuring consistent formats across the cells. Data was summarized by total revenue, region, subscription type, canceled and months using the Pivot tables. This gives us summarized information about the dataset. Further, the cleaned dataset was imported into SQL server to perform more analysis by querying the dataset. After obtaining satisfied results, the created views were imported into PowerBI for visualization.
 
 ## PIVOT TABLES
+![Pivot 2](https://github.com/user-attachments/assets/16037b98-bc20-4579-bd4b-acfc706f467f)
+![Pivot 1](https://github.com/user-attachments/assets/d4e22ec6-bf1a-4ffd-9b92-211987ec8528)
+![Pivot 3](https://github.com/user-attachments/assets/3fc4f20e-bfb5-4044-ba06-9a86a27f3562)
 	
 
 ## QUERIES USED IN ANALYSIS
+
+
+## CUSTOMER DATA VISUALIZATION
+![Customer Data Visual](https://github.com/user-attachments/assets/a0b5c353-2713-4df9-afe4-f2b21cbb6b02)
+
 
 
 ## FINDINGS
