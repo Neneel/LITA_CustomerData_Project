@@ -72,3 +72,7 @@ It is discovered that Basic subscription has the highest number of active subscr
 Basic subscription type has the highest revenue at $33,776,735 both active and canceled subscriptions. While Standard has the lowest revenue at $16,864,376 both active and canceled subscriptions.
 
 Eastern region overturns other regions with the highest revenue at $16,958,763 and also the only region without a canceled subscription. The Northern region has the lowest revenue at $16,817,972.
+
+Eastern and Northern regions have the Basic subscription type. Southern region has the Premium subscription type and Western region has the Standard subscription type.
+The customer with the highest revenue is Liam at $3,437,444 and the customer with the lowest revenue is Maria at $3,326,162.
+
