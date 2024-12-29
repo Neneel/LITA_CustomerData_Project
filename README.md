@@ -62,7 +62,8 @@ The dataset was loaded into Microsoft Excel. It was cleaned by addressing the bl
 
 
 ## CUSTOMER DATA VISUALIZATION
-![Customer Data Visual](https://github.com/user-attachments/assets/a0b5c353-2713-4df9-afe4-f2b21cbb6b02)
+![Full Customer Visual](https://github.com/user-attachments/assets/5f994163-4bf3-4c5b-81a3-8f7822ec1d1c)
+
 
 
 
